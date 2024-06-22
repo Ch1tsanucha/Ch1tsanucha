@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex;">
   <img src="https://leetcard.jacoblin.cool/BB1G1016?theme=dark&font=ABeeZee" alt="LeetCode Stats" style="width: 45%;"/>
    <ul style="list-style: none; padding: 0; margin-top: 10px;">
       <li style="margin-bottom: 10px;">&#128119; <strong>CHITSANUCHA ONRIT</strong></li>
