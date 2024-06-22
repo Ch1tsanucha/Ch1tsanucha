@@ -1,10 +1,10 @@
-<div style="display: flex; gap:70px;">
-    <img src="https://leetcard.jacoblin.cool/BB1G1016?theme=dark&font=ABeeZee" alt="LeetCode Stats" style="width: 40%;"/>
-    <div style="display: flex; justify-content: start;width: 40%; align-items:center;">
-     <ul>
-      <div style="">&#128119; CHITSANUCHA ONRIT</div>
-      <div>&#128187; Computer Engineering Student</div>
-      <div>&#127760; Currently Frontend Developer</div>
-      </ul>
-    </div>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://leetcard.jacoblin.cool/BB1G1016?theme=dark&font=ABeeZee" alt="LeetCode Stats" style="width: 45%;"/>
+  <div style="width: 45%;">
+    <ul style="list-style: none; padding: 0;">
+      <li style="margin-bottom: 10px;">&#128119; <strong>CHITSANUCHA ONRIT</strong></li>
+      <li style="margin-bottom: 10px;">&#128187; <strong>Computer Engineering Student</strong></li>
+      <li>&#127760; <strong>Currently Frontend Developer</strong></li>
+    </ul>
   </div>
+</div>
