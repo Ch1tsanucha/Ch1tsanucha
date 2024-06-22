@@ -1,10 +1,3 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="https://cdn.tailwindcss.com"></script>
-</head>
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img src="https://leetcard.jacoblin.cool/BB1G1016?theme=dark&font=ABeeZee" alt="LeetCode Stats" style="max-width: 45%;"/>
   <div style="max-width: 45%;">
@@ -15,11 +8,3 @@
     </ul>
   </div>
 </div>
-  
-  </div>
-  
-  
-  
-</body>
-</html>
-
