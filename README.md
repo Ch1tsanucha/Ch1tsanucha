@@ -6,5 +6,5 @@
       <li>&#127760; <strong>Currently Frontend Developer</strong></li>
     </ul>
   </div>
-  <img src="https://leetcard.jacoblin.cool/BB1G1016?theme=dark&font=ABeeZee" alt="LeetCode Stats" style="max-width: 30%;"/>
+  <img src="https://leetcard.jacoblin.cool/BB1G1016?theme=dark&font=ABeeZee" alt="LeetCode Stats"/>
 </div>
