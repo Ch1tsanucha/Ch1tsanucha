@@ -1,4 +1,4 @@
-  <div style="display: flex; align-items: center;">
+  <div style="display: flex;">
     <img src="https://leetcard.jacoblin.cool/BB1G1016?theme=dark&font=ABeeZee" alt="LeetCode Stats" style="width: 45%;"/>
     <div style="width: 45%;">
       <ul style="list-style: none; padding: 0;">
