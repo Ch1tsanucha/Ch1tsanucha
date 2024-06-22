@@ -4,5 +4,4 @@
       <li style="margin-bottom: 10px;">&#128187; <strong>Computer Engineering Student</strong></li>
       <li>&#127760; <strong>Currently Frontend Developer</strong></li>
     </ul>
-      <img src="https://leetcard.jacoblin.cool/BB1G1016?theme=dark&font=ABeeZee" alt="LeetCode Stats"/>
 </div>
