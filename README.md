@@ -6,8 +6,8 @@ About Me
                 <li>&#127760; <strong>Currently Frontend Developer</strong></li>
           </ul>
 </div>
----
 </div>
+___
 Frontend Developer Skills
 <div>
 <p align="left">
