@@ -6,7 +6,7 @@ About Me
                 <li>&#127760; <strong>Currently Frontend Developer</strong></li>
           </ul>
 </div>
-         
+---
 </div>
 Frontend Developer Skills
 <div>
