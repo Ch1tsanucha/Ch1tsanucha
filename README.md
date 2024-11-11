@@ -64,5 +64,5 @@
 
 ---
 
-### Google IT Automation with Python Professional Certificate
-[![Badge Title](https://www.credly.com/badges/a0f9b852-f97e-4003-81c1-954531f4c796/image.png)](https://www.credly.com/badges/a0f9b852-f97e-4003-81c1-954531f4c796)
+### Certificate
+[![Google IT Automation with Python Professional Certificate](https://www.credly.com/badges/a0f9b852-f97e-4003-81c1-954531f4c796/image.png)](https://www.credly.com/badges/a0f9b852-f97e-4003-81c1-954531f4c796)
