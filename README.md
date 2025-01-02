@@ -3,7 +3,6 @@
   <ul>
     <li style="margin-bottom: 10px;">&#128119; <strong>CHITSANUCHA ONRIT</strong></li>
     <li style="margin-bottom: 10px;">&#128187; <strong>Computer Engineering Student</strong></li>
-    <li>&#127760; <strong>Data Engineering</strong></li>
   </ul>
 </div>
 
