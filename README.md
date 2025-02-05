@@ -73,5 +73,5 @@
 ---
 
 ### Certificate
-[![Python Badge](https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png)](https://www.credly.com/badges/a0f9b852-f97e-4003-81c1-954531f4c796)
+<!--[![Python Badge](https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png)](https://www.credly.com/badges/a0f9b852-f97e-4003-81c1-954531f4c796)-->
 
